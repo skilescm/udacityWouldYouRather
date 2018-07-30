@@ -1,25 +1,10 @@
 # Would You Rather?
 
-This project has been built as a part of react nanodegree present on Udacity. This project utilises default data provided by Udacity Starter code. This code can be found in `src/utils/_DATA.js` file. All of the API is created with the help of this source file.
+This project was built as a project for a react nanodegree on Udacity. The purpose of this project is to allow a user to select between two options. Stating "what they would rather".
 
-## Purpose
+## How does it work?
+This was built using a prebuilt API provided by Udacity. A user has the option to login if they already have an account, or register for initial use. Once the user has been authneticated, a list of questions is displayed for them to select and answer to. There is also an option for the user to create a question of their own to be added to the question set. A leaderboard is also present to show the user their ranking compared to other users based on question submissions and questions answered.
 
-This application is built to demonstrate my skills in React, Redux, and designing. I have a seperate section and repository dedicated to design process. All in all, two of the most important skills of mine are represented here.
-
-1. React
-2. Redux
-
-## Design
-
-With this project, I decided that it will have design that I want rather than using the old frameworks like Bootstrap, Semantic UI, or Foundation. Just to reset the browser defaults, I am using normalize.css. Adobe recently made Adobe XD free. So I took it for a little spin, and made a little design for this project.
-
-I did not use any CSS PreProcessor for this project. Although CSS does not follow in design conventions, JavaScript for this project follows standard ESLint design pattern.
-
-You may find the design file at https://github.com/BrainBuzzer/design.
-
-## Approach
-
-I have taken a top-down approach with this project, meaning that I have started by developing the largest parts of UI first, and then keep breaking them down to smaller components.
 
 ## Running the application
 
